@@ -121,7 +121,7 @@
         "cochera":"no",
         "check":"agendado",
         "direccion":"2WF3+HHJ, C. los Rubies, Lima 15112, Calle Los Rubíes, Urb. Chavín III etapa, frente a un hermoso parque, https://goo.gl/maps/s3pavu3mFDfLq1JJA",
-        "direccion-google-maps":"",
+        "direccion-google-maps":"https://www.google.com/maps/search/2WF3%2BHHJ,+C.+los+Rubies,+Lima+15112/@-11.975854,-77.098986,17z/data=!3m1!4b1!5m1!1e4?entry=ttu",
         "contacto":"Fiorella - Los Olivos Alquiler 2 >>> 992 900 375",
         "observacion":"Visita a las 11 AM"
      },
@@ -177,7 +177,7 @@
         "cochera":"no",
         "check":"agendado",
         "direccion":"Calle José Jimenez Borja 152, San Borja, Ref cuadra 6 de Bailetti",
-        "direccion-google-maps":"",
+        "direccion-google-maps":"https://www.google.com/maps/place/Jose+Jimenez+Borja+152,+San+Borja+15021/@-12.0845636,-76.993318,16.5z/data=!4m6!3m5!1s0x9105c7cadd3c10b7:0x11b3df46d8aadc72!8m2!3d-12.0848478!4d-76.9895792!16s%2Fg%2F11h_45gb3l!5m1!1e4?entry=ttu",
         "contacto":"Lourdes - San Borja Alquiler 1 >>>940 248 496",
         "observacion":"De 2 a 3 PM"
      },
@@ -236,5 +236,19 @@
         "direccion-google-maps":"",
         "contacto":"Luis Gabriel - Comas Alquiler 1 >>> 953192182",
         "observacion":"Se puede Visitar sabado en la mañana o tarde, falta la direccion"
+     },
+     {
+        "uuid":"469c0d64-f540-4934-9e42-94fc25d95da8",
+        "title":"ALQUILER DPTO 120 MT2 en S.M.P.",
+        "link":"https://www.facebook.com/marketplace/item/1440912193194277/?referralSurface=messenger_lightspeed_banner&referralCode=messenger_banner",
+        "modalidad":"?",
+        "price":"1600",
+        "lugar":"San Martin de Porras",
+        "cochera":"no",
+        "check":"revision",
+        "direccion":"Cruce de Universitaria con Antúnez de Mayolo en la *Urbanización San Juan de Dios",
+        "direccion Google Maps":"",
+        "contacto":"Stefanny - San Martin de Porras Alquiler 4 >>> 943 499 352",
+        "observacion":"Esperando respuesta por WS, y Verificar Direccion"
      }
 ]
