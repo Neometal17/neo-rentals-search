@@ -22,6 +22,7 @@ function App() {
         <td>{rental.cochera}</td>
         <td>{rental.check}</td>
         <td>{rental.direccion}</td>
+        <td><a href={rental["direccion-google-maps"]}>Google Maps Link</a></td>
         <td>{rental.contacto}</td>
         <td>{rental.observacion}</td>
       </tr>)
@@ -39,6 +40,7 @@ function App() {
         <td>{rental.cochera}</td>
         <td>{rental.check}</td>
         <td>{rental.direccion}</td>
+        <td><a href={rental["direccion-google-maps"]}>Google Maps Link</a></td>
         <td>{rental.contacto}</td>
         <td>{rental.observacion}</td>
       </tr>)
@@ -56,6 +58,7 @@ function App() {
         <td>{rental.cochera}</td>
         <td>{rental.check}</td>
         <td>{rental.direccion}</td>
+        <td><a href={rental["direccion-google-maps"]}>Google Maps Link</a></td>
         <td>{rental.contacto}</td>
         <td>{rental.observacion}</td>
       </tr>)
@@ -73,6 +76,7 @@ function App() {
         <td>{rental.cochera}</td>
         <td>{rental.check}</td>
         <td>{rental.direccion}</td>
+        <td><a href={rental["direccion-google-maps"]}>Google Maps Link</a></td>
         <td>{rental.contacto}</td>
         <td>{rental.observacion}</td>
       </tr>)
@@ -93,6 +97,7 @@ function App() {
       "cochera": document.getElementsByName("cochera")[0].value,
       "check": document.getElementsByName("check")[0].value,
       "direccion": document.getElementsByName("direccion")[0].value,
+      "direccion Google Maps": document.getElementsByName("direccion-google-maps")[0].value,
       "contacto": document.getElementsByName("contacto")[0].value,
       "observacion": document.getElementsByName("observacion")[0].value
     }
@@ -155,6 +160,7 @@ function App() {
         <td>{rental.cochera}</td>
         <td>{rental.check}</td>
         <td>{rental.direccion}</td>
+        <td><a href={rental.direccion-google-maps}>Google Maps Link</a></td>
         <td>{rental.contacto}</td>
         <td>{rental.observacion}</td>
       </tr>);
@@ -172,6 +178,7 @@ function App() {
         <td>{rental.check}</td>
         <td>{rental.direccion}</td>
         <td>{rental.contacto}</td>
+        <td><a href={rental.direccion-google-maps}>Google Maps Link</a></td>
         <td>{rental.observacion}</td>
       </tr>));
 
@@ -186,6 +193,7 @@ function App() {
         <td>{rental.cochera}</td>
         <td>{rental.check}</td>
         <td>{rental.direccion}</td>
+        <td><a href={rental.direccion-google-maps}>Google Maps Link</a></td>
         <td>{rental.contacto}</td>
         <td>{rental.observacion}</td>
       </tr>));
@@ -201,6 +209,7 @@ function App() {
           <td>{rental.cochera}</td>
           <td>{rental.check}</td>
           <td>{rental.direccion}</td>
+          <td><a href={rental.direccion-google-maps}>Google Maps Link</a></td>
           <td>{rental.contacto}</td>
           <td>{rental.observacion}</td>
         </tr>));
@@ -225,6 +234,7 @@ function App() {
           <tr>
             <td>Check: </td><td><input name="check" defaultValue="revision"/></td>
             <td>Direccion: </td><td><input name="direccion"/></td>
+            <td>Direccion Google Maps: </td><td><input name="direccion-google-maps"/></td>
           </tr>
           <tr>
             <td>Contacto: </td><td><input name="contacto"/></td>
@@ -266,6 +276,7 @@ function App() {
           <td>Cochera</td>
           <td>Check</td>
           <td>Direccion</td>
+          <td>Direccion Google Maps</td>
           <td>Contacto</td>
           <td>Observaciones</td>
         </tr>
@@ -284,6 +295,7 @@ function App() {
           <td>Cochera</td>
           <td>Check</td>
           <td>Direccion</td>
+          <td>Direccion Google Maps</td>
           <td>Contacto</td>
           <td>Observaciones</td>
         </tr>
@@ -302,6 +314,7 @@ function App() {
           <td>Cochera</td>
           <td>Check</td>
           <td>Direccion</td>
+          <td>Direccion Google Maps</td>
           <td>Contacto</td>
           <td>Observaciones</td>
         </tr>
@@ -320,6 +333,7 @@ function App() {
           <td>Cochera</td>
           <td>Check</td>
           <td>Direccion</td>
+          <td>Direccion Google Maps</td>
           <td>Contacto</td>
           <td>Observaciones</td>
         </tr>

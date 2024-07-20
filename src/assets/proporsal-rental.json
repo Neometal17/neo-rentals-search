@@ -9,6 +9,7 @@
         "cochera":"si (Opcional)",
         "check":"revision",
         "direccion":"",
+        "direccion-google-maps":"",
         "contacto":"Erika Lucia - Jesus Maria Alquiler 1 >>> 966 382 164 ",
         "observacion":"Solo quedo confirmar hora de visita para el dia Viernes 19"
     },
@@ -21,7 +22,8 @@
         "lugar":"San Mantin de Porra",
         "cochera":"no",
         "check":"agendado",
-        "direccion":"C. Florida 689, Lima 15108, https://www.google.com/maps/place/C.+Florida+689,+Lima+15108/@-11.9963569,-77.100176,17z/data=!3m1!4b1!4m6!3m5!1s0x9105ce7e62845207:0x4913f359942ba4e0!8m2!3d-11.9963622!4d-77.0976011!16s%2Fg%2F11fszt5vfj!5m1!1e4?entry=ttu",
+        "direccion":"C. Florida 689, Lima 15108",
+        "direccion-google-maps":"https://www.google.com/maps/place/C.+Florida+689,+Lima+15108/@-11.9963569,-77.100176,17z/data=!3m1!4b1!4m6!3m5!1s0x9105ce7e62845207:0x4913f359942ba4e0!8m2!3d-11.9963622!4d-77.0976011!16s%2Fg%2F11fszt5vfj!5m1!1e4?entry=ttu",
         "contacto":"None - San Martin de Porras Alquiler 1 >>> 991 452 413",
         "observacion":"Sabado 10 AM"
      },
@@ -35,6 +37,7 @@
         "cochera":"no",
         "check":"descartado",
         "direccion":"Av. Naranjal 1453, Los Olivos 15304, Frente parque César Vallejo Altura Ovalo Huandoy",
+        "direccion-google-maps":"",
         "contacto":"Dr Cueva - Los Olivos Alquiler 3 >>> 980 440 737",
         "observacion":"Se agendo para las 2 PM, Confirmar la visita, No tienes un buen horario"
      },
@@ -48,6 +51,7 @@
         "cochera":"no",
         "check":"agendado",
         "direccion":"ltura de la cuadra 15 Av. Tingo Maria, cerca al Parque 1ro. de mayo",
+        "direccion-google-maps":"",
         "contacto":"Carturo - Lima Centro Alquiler 1 >>> 952 242 717",
         "observacion":"Llamar el dia viernes para confirmar hora de visitar el Sabado"
      },
@@ -61,6 +65,7 @@
         "cochera":"no",
         "check":"enEspera",
         "direccion":"espalda colegio Roma, a una cuadra cruce av alizos con canta callao",
+        "direccion-google-maps":"",
         "contacto":"?",
         "observacion":"Esperando Respuesta por Messenger-FB"
      },
@@ -74,6 +79,7 @@
         "cochera":"no",
         "check":"revision",
         "direccion":"SE ENCUENTRA UBICADO URB BRISAS DEL NARANJAL 1ERA ETAPA / ( SAN MARTIN DE PORRES )",
+        "direccion-google-maps":"",
         "contacto":"Victoria - San Mantin Porras 1 >> 920864586",
         "observacion":"Agendado para el sabado a las 12 PM, falta confirmar direccion"
      },
@@ -87,6 +93,7 @@
         "cochera":"no",
         "check":"descartado",
         "direccion":"Av. Próceres de Huandoy N⁰ 5093. Ref: A 100 Mtrs. Del Óvalo Huandoy (Cruce de la Av. Naranjal y la Av. Huandoy) Al Costado de la Caja Arequipa.",
+        "direccion-google-maps":"",
         "contacto":"Sandy Altamirano - Los Olivos Alquiler 1 >>> 939846429 ",
         "observacion":"Verificacion Validacion Si Aceptan extrangeros"
      },
@@ -100,6 +107,7 @@
         "cochera":"si",
         "check":"descartado",
         "direccion":"Jirón Zorritos 857, Lima 15082, condominio Las Magnolias",
+        "direccion-google-maps":"",
         "contacto":"Maria - Alquiler Breña 2 >>> 996 144 641",
         "observacion":"Ya no esta diponible"
      },
@@ -113,6 +121,7 @@
         "cochera":"no",
         "check":"agendado",
         "direccion":"2WF3+HHJ, C. los Rubies, Lima 15112, Calle Los Rubíes, Urb. Chavín III etapa, frente a un hermoso parque, https://goo.gl/maps/s3pavu3mFDfLq1JJA",
+        "direccion-google-maps":"",
         "contacto":"Fiorella - Los Olivos Alquiler 2 >>> 992 900 375",
         "observacion":"Visita a las 11 AM"
      },
@@ -126,6 +135,7 @@
         "cochera":"no",
         "check":"enEspera",
         "direccion":"La casa esta ubicada a 5 minutos del tottus de puente piedra , y también a la salida con dirección a Ventanilla Alta",
+        "direccion-google-maps":"",
         "contacto":"",
         "observacion":"Se espera respuesta por Messeger"
      },
@@ -139,6 +149,7 @@
         "cochera":"no",
         "check":"descartado",
         "direccion":"óvalo José Granda",
+        "direccion-google-maps":"",
         "contacto":"",
         "observacion":"Estara lista el 10 de agosto"
      },
@@ -152,6 +163,7 @@
         "cochera":"no",
         "check":"descartado",
         "direccion":"CONDOMINIO MANBO TRESS - COMAS",
+        "direccion-google-maps":"",
         "contacto":"Mary Espinoza - Comas Alquiler 1 >>> 982 057 043",
         "observacion":"MUCHO PAPELEO, PIDEN ATENCENTES Mantenimiento 200 soles, Obteniendo Contacto en Messenger Con Facebook"
      },
@@ -165,6 +177,7 @@
         "cochera":"no",
         "check":"agendado",
         "direccion":"Calle José Jimenez Borja 152, San Borja, Ref cuadra 6 de Bailetti",
+        "direccion-google-maps":"",
         "contacto":"Lourdes - San Borja Alquiler 1 >>>940 248 496",
         "observacion":"De 2 a 3 PM"
      },
@@ -178,6 +191,7 @@
         "cochera":"no",
         "check":"agendado",
         "direccion":"",
+        "direccion-google-maps":"",
         "contacto":"Cesar Ramos - Breña Alquiler 3 >>> 949 203 135",
         "observacion":"La direccion la envia cuando este en camino, no tengo hora confirmada"
      },
@@ -191,6 +205,7 @@
         "cochera":"no",
         "check":"revision",
         "direccion":"Cruce de Universitaria con Antúnez de Mayolo en la *Urbanización San Juan de Dios",
+        "direccion-google-maps":"",
         "contacto":"",
         "observacion":"Esperando Respuesta por Messenger-FB"
      },
@@ -204,6 +219,7 @@
         "cochera":"no",
         "check":"revision",
         "direccion":"",
+        "direccion-google-maps":"",
         "contacto":"Alfre Caceda - Los Olivos Alquiler 4 >>> 962 577 434",
         "observacion":""
      },
@@ -217,6 +233,7 @@
         "cochera":"no",
         "check":"revision",
         "direccion":"?",
+        "direccion-google-maps":"",
         "contacto":"Luis Gabriel - Comas Alquiler 1 >>> 953192182",
         "observacion":"Se puede Visitar sabado en la mañana o tarde, falta la direccion"
      }
